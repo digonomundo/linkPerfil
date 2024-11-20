@@ -19,7 +19,7 @@ Este projeto consiste em um site simples que serve como um ponto inicial para in
 
 1. Clone este repositório usando o comando:  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/digonomundo/linkPerfil.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
 
@@ -33,6 +33,6 @@ Contribuições são bem-vindas! Podem ser melhorias no código, ajustes no desi
    ```  
 3. Envie um pull request descrevendo suas mudanças.
 
-### Exemplo
+### Visualização
 
 ![Imagem do Site](static/image/exemple.png)
