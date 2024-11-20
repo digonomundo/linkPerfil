@@ -1,28 +1,37 @@
-### Descrição
+### Resumo
 
-Esse projeto consiste em um site simples que serve como um link para informações Sobre mim. Inclui uma breve descrição sobre e links para contatos e redes sociais.
+Este projeto consiste em um site simples que serve como um ponto inicial para informações sobre mim. Ele inclui uma breve descrição e links para contato nas redes sociais.
 
 ### Recursos
 
-* Uma página inicial com informações básicas como meu, profissão e links para suas redes sociais.
-* Uma página "Sobre mim" com uma descrição mais detalhada, de interesses e objetivos profissionais.
-* Uma página "Redes Sociais" com links para os meus perfis nas principais redes sociais.
-* Um design responsivo que adapta o layout do site para diferentes tamanhos de tela.
+* Uma página inicial com informações básicas, como nome, profissão e links para redes sociais.
+* Uma página "Sobre mim" com uma descrição detalhada, incluindo interesses e objetivos profissionais.
+* Uma página "Redes Sociais" com links para perfis nas principais plataformas sociais.
+* Um design responsivo que adapta o layout do site a diferentes tamanhos de tela.
 
 ### Dependências
 
-* HTML
-* CSS                           
-* JavaScript
+* HTML  
+* CSS  
+* JavaScript  
 
 ### Instruções de instalação
 
-1. Clone o repositório do projeto.
-2. Abra o arquivo `index.html` em um navegador web.
+1. Clone este repositório usando o comando:  
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+2. Abra o arquivo `index.html` em qualquer navegador web.
 
 ### Contribuições
 
-São bem-vindas contribuições de todos os tipos, desde melhorias no código-fonte até sugestões de novos recursos. Para contribuir, basta abrir uma solicitação pull no repositório do projeto.
+Contribuições são bem-vindas! Podem ser melhorias no código, ajustes no design ou sugestões de novos recursos. Para contribuir:  
+1. Faça um fork deste repositório.  
+2. Crie uma nova branch para suas alterações:  
+   ```bash
+   git checkout -b minha-alteracao
+   ```  
+3. Envie um pull request descrevendo suas mudanças.
 
 ### Exemplo
 
